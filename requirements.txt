@@ -1,0 +1,11 @@
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langchain-chroma
+langchain-huggingface
+chromadb
+sentence-transformers
+python-dotenv
+langsmith
+pydantic
