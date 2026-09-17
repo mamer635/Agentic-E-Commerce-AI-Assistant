@@ -1,0 +1,22 @@
+Payment Methods
+
+Our store supports several payment methods.
+
+1. Credit and Debit Cards
+Customers can pay using supported Visa and Mastercard credit or debit cards.
+The payment must be successfully authorized before the order can be processed.
+If a card payment fails, the customer should verify the card details, available balance, and expiration date.
+
+2. Cash on Delivery
+Cash on delivery is available for eligible orders and delivery locations.
+The customer pays the delivery agent when the order is delivered.
+Cash on delivery availability may depend on the order value and delivery location.
+
+3. Online Payment
+Customers can complete payment online during checkout.
+The order will only be processed after successful payment confirmation.
+
+4. Payment Security
+Payment information should not be shared with other people.
+The store does not ask customers to send card passwords or PIN numbers through messages.
+If a payment problem occurs, customers should contact customer support.

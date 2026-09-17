@@ -1,0 +1,26 @@
+Smartphone Buying Recommendations
+
+Different users have different smartphone requirements.
+
+Students
+Students may prioritize battery life, good performance, reasonable price, storage, and reliability.
+
+Gaming Users
+Gaming users should consider processor performance, GPU performance, RAM, display refresh rate, battery capacity, and thermal performance.
+
+Photography Users
+Photography users should consider camera sensors, image processing, low-light performance, optical image stabilization, video capabilities, and front camera quality.
+
+Business Users
+Business users may prioritize battery life, performance, security, storage, large display, and reliable software updates.
+
+Everyday Users
+Everyday users often need reliable performance, good battery life, good display, good camera, sufficient storage, and reasonable price.
+
+Heavy Users
+Heavy smartphone users should consider higher-end processors, larger RAM capacity, higher storage capacity, and larger batteries.
+
+Choosing Based on Budget
+Customers should first determine their maximum budget.
+After determining the budget, customers can compare performance, camera quality, battery life, display quality, and storage.
+Price should not be the only factor when choosing a smartphone.
